@@ -2,7 +2,7 @@
   "name": "Oxnoob",
   "description": "I'm Oxnoob, a bot to have FULL Roblox integration!",
   "version": "0.0.0",
-  "main": "test.js",
+  "main": "oxnoob.js",
   "scripts": {
     "start": "node oxnoob.js"
   },
